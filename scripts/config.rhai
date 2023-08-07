@@ -1,7 +1,7 @@
 let titles_type = ["Dataset", "Survey", "Review", "Overview"];
 let titles_method = ["SLAM", "LIDAR", "Lidar-inertial", "Odometry", "mapping", "Visual-inertial", "GNSS"];
 let titles = titles_method + titles_type;
-let authors_array = ["Yann LeCun", "Geoffrey Hinton", "Yoshua Bengio"];
+let authors_array = ["Fu Zhang", "Wei Xu", "Jiarong Lin"];
 
 let conferences = [
     // conference
